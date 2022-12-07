@@ -112,23 +112,6 @@
 </details>
 
 
-<details><summary><b>... exercises, practice, projects</b></summary>
-
-- **WEBSITES**
-    - ...
-
-- **GitHub**
-    - ...
-
-- **Kaggle**
-    - ...
-
-- **Medium**
-    - ...
-
-</details>
-
-
 <details><summary><b>Matplotlib exercises, practice, projects</b></summary>
 
 - **WEBSITES**
