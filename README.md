@@ -1,7 +1,7 @@
 # Data Science Practice
 
 ### Hands-on Data Science practices with Python and free practice resources.
-- **NumPy PRACTICE & EXERCISES**
+
 <details><summary><b>WEBSITES</b></summary>
 
 - https://sites.engineering.ucsb.edu/~shell/che210d/numpy.pdf
