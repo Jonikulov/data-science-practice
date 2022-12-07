@@ -2,8 +2,7 @@
 
 ### Hands-on Data Science practices with Python and free practice resources.
 
-
-<details><summary><b>NumPy exercises & practice</b></summary>
+<details><summary><b>NumPy exercises, practice, projects</b></summary>
 
 - **WEBSITES**
     - https://sites.engineering.ucsb.edu/~shell/che210d/numpy.pdf
@@ -25,6 +24,146 @@
     - http://github.com/rougier/numpy-tutorial
     - https://github.com/rougier/numpy-100
     - http://github.com/Kyubyong/numpy_exercises
+
+- **Kaggle**
+    - ...
+
+- **Medium**
+    - ...
+
+</details>
+
+
+<details><summary><b>Pandas exercises, practice, projects</b></summary>
+
+- **WEBSITES**
+    - ...
+
+- **GitHub**
+    - ...
+
+- **Kaggle**
+    - ...
+
+- **Medium**
+    - ...
+
+</details>
+
+
+<details><summary><b>PostgreSQL exercises, practice, projects</b></summary>
+
+- **WEBSITES**
+    - http://w3schools.com/sql
+    - https://pgexercises.com
+    - https://www.w3resource.com/postgresql-exercises
+    - http://postgresql.itversity.com
+    - https://practity.com/sql-3
+
+- **GitHub**
+    - ...
+
+- **Kaggle**
+    - ...
+
+- **Medium**
+    - ...
+
+</details>
+
+
+<details><summary><b>SQLite exercises, practice, projects</b></summary>
+
+- **WEBSITES**
+    - ...
+
+- **GitHub**
+    - ...
+
+- **Kaggle**
+    - ...
+
+- **Medium**
+    - ...
+
+</details>
+
+
+<details><summary><b>... exercises, practice, projects</b></summary>
+
+- **WEBSITES**
+    - ...
+
+- **GitHub**
+    - ...
+
+- **Kaggle**
+    - ...
+
+- **Medium**
+    - ...
+
+</details>
+
+
+<details><summary><b>Matplotlib exercises, practice, projects</b></summary>
+
+- **WEBSITES**
+    - ...
+
+- **GitHub**
+    - ...
+
+- **Kaggle**
+    - ...
+
+- **Medium**
+    - ...
+
+</details>
+
+
+<details><summary><b>Seaborn exercises, practice, projects</b></summary>
+
+- **WEBSITES**
+    - ...
+
+- **GitHub**
+    - ...
+
+- **Kaggle**
+    - ...
+
+- **Medium**
+    - ...
+
+</details>
+
+
+<details><summary><b>scikit-learn exercises, practice, projects</b></summary>
+
+- **WEBSITES**
+    - ...
+
+- **GitHub**
+    - ...
+
+- **Kaggle**
+    - ...
+
+- **Medium**
+    - ...
+
+</details>
+
+
+<details><summary><b>PyTorch exercises, practice, projects</b></summary>
+
+- **WEBSITES**
+    - ...
+
+- **GitHub**
+    - ...
 
 - **Kaggle**
     - ...
