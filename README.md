@@ -37,10 +37,33 @@
 <details><summary><b>Pandas exercises, practice, projects</b></summary>
 
 - **WEBSITES**
-    - ...
+    - https://w3resource.com/python-exercises/pandas
+    - https://geeksforgeeks.org/pandas-practice-excercises-questions-and-solutions/
+    - https://machinelearningplus.com/python/101-pandas-exercises-python/
+    - https://favtutor.com/blogs/pandas-exercises-python
+    - https://projectpro.io/article/python-pandas-project-ideas/580
 
 - **GitHub**
-    - ...
+    - https://github.com/guipsamora/pandas_exercises/
+    - https://github.com/culturedbun/pandas-exercises/
+    - https://github.com/stefmolin/pandas-workshop/
+    - https://github.com/aakankshaws/Pandas-exercises/
+    - https://github.com/Rango-2017/Pandas_exercises/
+    - https://github.com/utm-data-mining/Pandas-Exercises/
+    - https://github.com/Rhomi/Pandas-Exercises/
+    - https://github.com/lighthouse-labs/Pandas_exercise/
+    - https://github.com/frieds/msis_2629_exercises/
+    - https://github.com/dvkumar/https-github.com-guipsamora-pandas_exercises/
+    - https://github.com/Mytakeon/101-pandas/
+    - https://github.com/Cyanivde/pandas-exercises/
+    - https://github.com/johannasantos/datascience-exercises/
+    - https://github.com/TiesdeKok/LearnPythonforResearch/
+    - https://github.com/emdemor/PythonDataScienceWithPandas_Exercises/
+    - https://github.com/SkalskiP/Data_Analysis_with_Pandas/
+    - https://github.com/austinlasseter/pandas_exercises/
+    - https://github.com/reddyprasade/Pandas-Practice
+    - https://github.com/prodigy803/pandas_practice
+    - https://github.com/rashida048/Practice-problems-using-Pandas-and-Numpy
 
 - **Kaggle**
     - ...
@@ -56,7 +79,7 @@
 - **WEBSITES**
     - http://w3schools.com/sql
     - https://pgexercises.com
-    - https://www.w3resource.com/postgresql-exercises
+    - https://w3resource.com/postgresql-exercises
     - http://postgresql.itversity.com
     - https://practity.com/sql-3
 
