@@ -2,8 +2,7 @@
 
 ### Hands-on Data Science practices with Python and free practice resources.
 
-<details><summary><b>WEBSITES</b></summary>
-
+- **WEBSITES**
 - https://sites.engineering.ucsb.edu/~shell/che210d/numpy.pdf
 - https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d
 - https://w3resource.com/python-exercises/numpy/index.php
@@ -17,23 +16,18 @@
 - https://codesolid.com/numpy-practice-questions-to-make-you-an-expert/
 - https://machinelearninghd.com/numpy-practice-exercises-python-package/
 - https://hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/
-</details>
 
 
-<details><summary><b>GitHub</b></summary>
-
-- http://github.com/aakankshaws/numpy-exercise
-- http://github.com/rougier/numpy-tutorial
-- https://github.com/rougier/numpy-100
-- http://github.com/Kyubyong/numpy_exercises
-</details>
+- **GitHub**
+    - http://github.com/aakankshaws/numpy-exercise
+    - http://github.com/rougier/numpy-tutorial
+    - https://github.com/rougier/numpy-100
+    - http://github.com/Kyubyong/numpy_exercises
 
 
-<details><summary><b>Kaggle</b></summary>
-- ...
-</details>
+- **Kaggle**
+    - ...
 
 
-<details><summary><b>Medium</b></summary>
-- ...
-</details>
+- **Medium**
+    - ...
